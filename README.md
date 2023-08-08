@@ -17,5 +17,6 @@ Playground for experimenting with styling + page layout.
 * Google Fonts API
 
 ## Resources & Acknowledgements
-* [CSS Reset](https://cssdeck.com/blog/what-is-a-css-reset/)
-* [Media Queries](https://www.w3schools.com/cssref/css3_pr_mediaquery.php)
+[CSS Reset](https://cssdeck.com/blog/what-is-a-css-reset/)
+
+[Media Queries](https://www.w3schools.com/cssref/css3_pr_mediaquery.php)
