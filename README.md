@@ -15,8 +15,11 @@ Playground for experimenting with styling + page layout.
     * orientation (landscape/portrait mode)
     * resolution
 * Google Fonts API
+  * @import used directly in stylesheet instead of linking Google fonts in HTML
 
 ## Resources & Acknowledgements
 [CSS Reset](https://cssdeck.com/blog/what-is-a-css-reset/)
 
 [Media Queries](https://www.w3schools.com/cssref/css3_pr_mediaquery.php)
+
+[@import](https://developer.mozilla.org/en-US/docs/Web/CSS/@import)
