@@ -69,15 +69,16 @@ html {
   justify-content: center;
   align-items: center;
   height: 50rem;
-  background: url("https://content.codecademy.com/courses/freelance-1/unit-6/project-morocco/banner.jpg") center center no-repeat;
+  background: url("../media/gear.jpg") center center no-repeat;
   background-size: cover;
-  color: #ffb78c;
+  color: #fff;
+  font-weight: bold;
 }
 
 .banner h2 {
   padding: .55rem 0;
-  border-top: 4px solid #ffb78c;
-  border-bottom: 4px solid #ffb78c;
+  border-top: 4px solid #fff;
+  border-bottom: 4px solid #fff;
   font-size: 1.44rem;
   letter-spacing: 2px;
   font-weight: 500;
@@ -223,9 +224,23 @@ footer em {
     padding: 0 10% 2rem 10%;
   }
 
-  footer .image-container {
+  /* original */
+  /* footer .image-container {
     height: 300px;
     margin-bottom: 2rem;
     overflow: hidden;
+  } */
+
+  footer .image-container {
+    height: 300px;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+    overflow: hidden;
   }
+}
+
+#author {
+  width: 200px;
+  height: 225px;
+  opacity: 0.85;
 }
