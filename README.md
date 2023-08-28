@@ -1,6 +1,5 @@
 # Novelist's Travel Blog
-Personal playground for trying out different styles and page layouts. <br />
-Playground for experimenting with styling + page layout.
+A travel blog. <br />
 
 ## Features
 * HTML
